@@ -5,7 +5,6 @@ I build reusable Codex skills and agent workflows for technical reasoning, archi
 我主要维护可复用的 Codex Skill 与 Agent 工作流，让复杂技术任务更容易理解、执行和验证。
 
 - 📝 [Technical notes and experiments](https://huruizhi.github.io/)
-- 🧰 [Public Codex skills collection](https://github.com/huruizhi/codex-skills)
 
 ## Featured Skills
 
@@ -13,8 +12,6 @@ I build reusable Codex skills and agent workflows for technical reasoning, archi
 |---|---|
 | [ray-archviz](https://github.com/huruizhi/ray-archviz) | Turn Agent systems, toolchains, and data flows into friendly hand-drawn Chinese architecture infographics. |
 | [review-software-design-skill](https://github.com/huruizhi/review-software-design-skill) | Review module boundaries, abstractions, dependencies, and long-term software design quality. |
-| [codex-skills](https://github.com/huruizhi/codex-skills) | A public collection of reusable personal Codex skills and adapted development workflows. |
-| [support-troubleshooting](https://github.com/huruizhi/support-troubleshooting) | Evidence-driven Codex plugin for support-ticket triage and troubleshooting. |
 
 ## Open-source Agent Projects
 
