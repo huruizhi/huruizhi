@@ -18,4 +18,4 @@ I build reusable Codex skills and agent workflows for technical reasoning, archi
 
 | Project | What it explores / 探索方向 |
 |---|---|
-| [agent-harness-learning-site](https://github.com/huruizhi/agent-harness-learning-site) | A Chinese-first, source-guided learning site for agent loops, tools, context, planning, subagents, and worktree isolation.<br>中文主讲、源码导向的 Agent Harness 工程学习站，覆盖循环、工具、上下文、规划、Subagent 与 Worktree 隔离。 |
+| [agent-harness-learning-site](https://github.com/huruizhi/agent-harness-learning-site)<br>[Live site / 在线阅读](https://huruizhi.github.io/agent-harness-learning-site/) | A Chinese-first, source-guided learning site for agent loops, tools, context, planning, subagents, and worktree isolation.<br>中文主讲、源码导向的 Agent Harness 工程学习站，覆盖循环、工具、上下文、规划、Subagent 与 Worktree 隔离。 |
