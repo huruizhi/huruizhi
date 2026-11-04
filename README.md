@@ -8,11 +8,13 @@ I build reusable Codex skills and agent workflows for technical reasoning, archi
 
 ## Featured Skills / 精选 Skills
 
-| Skill | Skill |
+| Skill | What it does / 功能 |
 |---|---|
-| **[bilibili-render-pdf](https://github.com/huruizhi/bilibili-render-pdf)**<br>Turn Bilibili videos into structured Chinese LaTeX course notes and compiled PDFs.<br>将 B 站视频整理为结构化中文 LaTeX 讲义与 PDF。 | **[youtube-render-pdf](https://github.com/huruizhi/youtube-render-pdf)**<br>Turn YouTube videos into figure-rich Chinese LaTeX course notes and compiled PDFs.<br>将 YouTube 视频整理为包含关键配图的中文 LaTeX 讲义与 PDF。 |
-| **[ray-archviz](https://github.com/huruizhi/ray-archviz)**<br>Turn Agent systems, toolchains, and data flows into hand-drawn Chinese architecture infographics.<br>将 Agent 系统、工具链与数据流转换为轻手绘中文架构图。 | **[ray-tech-readme](https://github.com/huruizhi/ray-tech-readme)**<br>Design evidence-led GitHub READMEs in a restrained technical-editorial style.<br>以克制、证据优先的技术编辑风格设计 GitHub README。 |
-| **[ray-review-software-design](https://github.com/huruizhi/ray-review-software-design)**<br>Review module boundaries, abstractions, dependencies, and long-term software design quality.<br>评审模块边界、抽象、依赖关系与长期设计质量。 |  |
+| [bilibili-render-pdf](https://github.com/huruizhi/bilibili-render-pdf) | Turn Bilibili videos into structured Chinese LaTeX course notes and compiled PDFs.<br>将 B 站视频整理为结构化中文 LaTeX 讲义与 PDF。 |
+| [youtube-render-pdf](https://github.com/huruizhi/youtube-render-pdf) | Turn YouTube videos into figure-rich Chinese LaTeX course notes and compiled PDFs.<br>将 YouTube 视频整理为包含关键配图的中文 LaTeX 讲义与 PDF。 |
+| [ray-archviz](https://github.com/huruizhi/ray-archviz) | Turn Agent systems, toolchains, and data flows into hand-drawn Chinese architecture infographics.<br>将 Agent 系统、工具链与数据流转换为轻手绘中文架构图。 |
+| [ray-tech-readme](https://github.com/huruizhi/ray-tech-readme) | Design evidence-led GitHub READMEs in a restrained technical-editorial style.<br>以克制、证据优先的技术编辑风格设计 GitHub README。 |
+| [ray-review-software-design](https://github.com/huruizhi/ray-review-software-design) | Review module boundaries, abstractions, dependencies, and long-term software design quality.<br>评审模块边界、抽象、依赖关系与长期设计质量。 |
 
 ## Open-source Agent Projects / 开源 Agent 项目
 
