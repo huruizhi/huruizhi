@@ -21,3 +21,9 @@ I build reusable Codex skills and agent workflows for technical reasoning, archi
 | Project | What it explores / 探索方向 |
 |---|---|
 | [agent-harness-learning-site](https://github.com/huruizhi/agent-harness-learning-site)<br>[Live site / 在线阅读](https://huruizhi.github.io/agent-harness-learning-site/) | A Chinese-first, source-guided learning site for agent loops, tools, context, planning, subagents, and worktree isolation.<br>中文主讲、源码导向的 Agent Harness 工程学习站，覆盖循环、工具、上下文、规划、Subagent 与 Worktree 隔离。 |
+
+## Open-source Learning Projects / 开源学习项目
+
+| Project | What it explores / 探索方向 |
+|---|---|
+| [Deep-Learning-Hands-On](https://github.com/huruizhi/Deep-Learning-Hands-On) | Notebook-based hands-on learning in deep learning, BERT, Transformers, GPT, LLM fine-tuning, and LangChain.<br>以 Notebook 实践深度学习、BERT、Transformer、GPT、LLM 微调与 LangChain。 |
