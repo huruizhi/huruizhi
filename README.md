@@ -12,6 +12,7 @@ I build reusable Codex skills and agent workflows for technical reasoning, archi
 |---|---|
 | [bilibili-render-pdf](https://github.com/huruizhi/bilibili-render-pdf) | Turn Bilibili videos into structured Chinese LaTeX course notes and compiled PDFs.<br>将 B 站视频整理为结构化中文 LaTeX 讲义与 PDF。 |
 | [youtube-render-pdf](https://github.com/huruizhi/youtube-render-pdf) | Turn YouTube videos into figure-rich Chinese LaTeX course notes and compiled PDFs.<br>将 YouTube 视频整理为包含关键配图的中文 LaTeX 讲义与 PDF。 |
+| [ray-paseo-clef-agent](https://github.com/huruizhi/ray-paseo-clef-agent) | Initialize task scenarios and available agents, then use local Clef to select Paseo execution bundles.<br>初始化任务场景与可用 Agent，通过本地 Clef 选择 Paseo 的执行程序、模型和推理档位。 |
 | [ray-archviz](https://github.com/huruizhi/ray-archviz) | Turn Agent systems, toolchains, and data flows into hand-drawn Chinese architecture infographics.<br>将 Agent 系统、工具链与数据流转换为轻手绘中文架构图。 |
 | [ray-tech-readme](https://github.com/huruizhi/ray-tech-readme) | Design evidence-led GitHub READMEs in a restrained technical-editorial style.<br>以克制、证据优先的技术编辑风格设计 GitHub README。 |
 | [ray-review-software-design](https://github.com/huruizhi/ray-review-software-design) | Review module boundaries, abstractions, dependencies, and long-term software design quality.<br>评审模块边界、抽象、依赖关系与长期设计质量。 |
